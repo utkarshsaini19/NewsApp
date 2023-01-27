@@ -1,7 +1,7 @@
 # NewsApp
 * Here is the news app with infinite loading[Using npm InfiniteLoading package] and top loading bar[npm toploadingbar package] functionality
 
-* Site is live at :- snazzy-bombolone-f418fe.netlify.app
+* Site is live at :- https://newsapp-topheadlines.netlify.app/
 
 * But it has news api key and that only runs on localhost.
 
